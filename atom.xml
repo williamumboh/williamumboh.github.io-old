@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Seeun William Umboh's website</title>
- <link href="http://pages.cs.wisc.edu/~seeunatom.xml" rel="self"/>
- <link href="http://pages.cs.wisc.edu/~seeun"/>
- <updated>2018-08-27T00:01:12+10:00</updated>
- <id>http://pages.cs.wisc.edu/~seeun</id>
+ <link href="http://williamumboh.comatom.xml" rel="self"/>
+ <link href="http://williamumboh.com"/>
+ <updated>2018-09-26T08:14:04+10:00</updated>
+ <id>http://williamumboh.com</id>
  <author>
    <name></name>
    <email></email>
