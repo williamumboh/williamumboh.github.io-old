@@ -512,3 +512,8 @@ div.section {
 a.bibbase.bibtex.link {
     display: none;
 }
+a.bibbase.link.link {
+    display: none;
+}
+
+
