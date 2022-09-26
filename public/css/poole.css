@@ -509,4 +509,6 @@ div.section {
   margin-top: 0;
 }
 
-
+a.bibbase.bibtex.link {
+    display: none;
+}
