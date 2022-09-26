@@ -515,5 +515,8 @@ a.bibbase.bibtex.link {
 a.bibbase.link.link {
     display: none;
 }
+a.bibbase.paper.link {
+    display: none;
+}
 
 
